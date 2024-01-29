@@ -1,4 +1,3 @@
-#EXTM3U  
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=HRRVV6MggkHtdQhWy6juJ6RTLRlfQL3p&sid=IZ0eBJz3jkjz06y516EQHuzEFs9yvG3a&pid=zA2KmctCHRYdltOHlo4e5Y8zwxLxAAvo&an=screen&at=web-app&av=v5.2.399&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fdevice%3Dtrue&res=393x221&without_cookies=false&listenerid=&dnt=true&access_token=lR4rCvGmbHL3jbzpDsSIf0AbSafW2wvFo9gnJ9qb9XEnfpW1EZGC0aBZQkQw0WQoI0cRPpu3Ish
+#EXTM3U
+#EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Undefined",1+1 (1080p)
+https://server03.peliscdn.online/newhls/4557740e0cc7b312b874232577ccd5bd/EP.0.1.v0.1677552510.720.m3u8
